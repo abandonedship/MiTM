@@ -1,7 +1,7 @@
 # MiTM
 Simple Man in the middle tool written in python.  
 
-Requeriments  
+Requeriments:  
 scapy  
 
 # Screenshots
