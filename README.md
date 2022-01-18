@@ -6,4 +6,4 @@ scapy
 
 # Screenshots
 
-![alt text](https://github.com/0bfxGH0ST/MiTM/blob/main/screenshots/screenshot1.png)  
+![alt text](https://github.com/0bfxGH0ST/MiTM/blob/main/screenshots/screenshot01.png)  
